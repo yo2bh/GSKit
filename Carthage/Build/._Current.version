@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "da1b80da4c9f08a613437ea98ccc161059c965fc",
+  "iOS" : [
+    {
+      "name" : "GSKit",
+      "hash" : "b6a98f4e5dc721ce4a812ed60360450865ce7bea7e07fc7639579f65d919bad1",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
